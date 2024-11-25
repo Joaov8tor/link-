@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site com Botões Delta, Fluxus, Codex e Arceus</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin: 10px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bem-vindo ao Site com Botões</h1>
+    <p>Clique nos botões abaixo para fazer o download dos respectivos APKs:</p>
+    
+    <!-- Botão Delta -->
+    <button onclick="window.location.href='https://www.mediafire.com/file/xxmhlqnpo3nk40l/Delta-2.650_ByBIELSCRIPT.apk/file';">Delta</button>
+    
+    <!-- Botão Fluxus -->
+    <button onclick="window.location.href='https://www.mediafire.com/file/xn29oemskgjqb8f/Fluxus_2.651_ByBIELSCRIPTS.apk/file';">Fluxus</button>
+    
+    <!-- Botão Codex -->
+    <button onclick="window.location.href='https://www.mediafire.com/file/q2ddb63xnviymzv/Codex_v2.650ByBIELSCRIPT.apk/file';">Codex</button>
+
+    <!-- Botão Arceus -->
+    <button onclick="window.location.href='https://www.mediafire.com/file/yszvbg46jlyk0m9/Arceus_X_NEO_1.4.6ByBIELSCRIPT.apk/file';">Arceus</button>
+</body>
+</html>
